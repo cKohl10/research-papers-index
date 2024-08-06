@@ -1,0 +1,230 @@
+####### Sensing Platform Bibtex References #######
+
+@article{wang2013mutual,
+  title={Mutual capacitive flexible tactile sensor for 3-D image control},
+  author={Wang, Yung-Chen and Chen, Tsun-Yi and Chen, Rongshun and Lo, Cheng-Yao},
+  journal={Journal of microelectromechanical systems},
+  volume={22},
+  number={3},
+  pages={804--814},
+  year={2013},
+  publisher={IEEE}
+}
+
+@article{zhao2022large,
+  title={Large-scale integrated flexible tactile sensor array for sensitive smart robotic touch},
+  author={Zhao, Zhenxuan and Tang, Jianshi and Yuan, Jian and Li, Yijun and Dai, Yuan and Yao, Jian and Zhang, Qingtian and Ding, Sanchuan and Li, Tingyu and Zhang, Ruirui and others},
+  journal={ACS nano},
+  volume={16},
+  number={10},
+  pages={16784--16795},
+  year={2022},
+  publisher={ACS Publications}
+}
+
+@article{fan2022enabling,
+  title={Enabling low-cost full surface tactile skin for human robot interaction},
+  author={Fan, Xiaoran and Lee, Daewon and Jackel, Larry and Howard, Richard and Lee, Daniel and Isler, Volkan},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={2},
+  pages={1800--1807},
+  year={2022},
+  publisher={IEEE}
+}
+
+@inproceedings{mittendorfer2012uniform,
+  title={Uniform cellular design of artificial robotic skin},
+  author={Mittendorfer, Philipp and Cheng, Gordon},
+  booktitle={ROBOTIK 2012; 7th German Conference on Robotics},
+  pages={1--5},
+  year={2012},
+  organization={VDE}
+}
+
+@article{maiolino2013flexible,
+  title={A flexible and robust large scale capacitive tactile system for robots},
+  author={Maiolino, Perla and Maggiali, Marco and Cannata, Giorgio and Metta, Giorgio and Natale, Lorenzo},
+  journal={IEEE Sensors Journal},
+  volume={13},
+  number={10},
+  pages={3910--3917},
+  year={2013},
+  publisher={IEEE}
+}
+
+@inproceedings{goger2013tactile,
+  title={Tactile proximity sensors for robotic applications},
+  author={G{\"o}ger, Dirk and Alagi, Hosam and W{\"o}rn, Heinz},
+  booktitle={2013 IEEE International Conference on Industrial Technology (ICIT)},
+  pages={978--983},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{andrussow2023minsight,
+  title={Minsight: A Fingertip-Sized Vision-Based Tactile Sensor for Robotic Manipulation},
+  author={Andrussow, Iris and Sun, Huanbo and Kuchenbecker, Katherine J and Martius, Georg},
+  journal={Advanced Intelligent Systems},
+  volume={5},
+  number={8},
+  pages={2300042},
+  year={2023},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{do2023densetact,
+  title={DenseTact 2.0: Optical tactile sensor for shape and force reconstruction},
+  author={Do, Won Kyung and Jurewicz, Bianca and Kennedy, Monroe},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={12549--12555},
+  year={2023},
+  organization={IEEE}
+}
+
+@inproceedings{do2022densetact,
+  title={Densetact: Optical tactile sensor for dense shape reconstruction},
+  author={Do, Won Kyung and Kennedy, Monroe},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={6188--6194},
+  year={2022},
+  organization={IEEE}
+}
+
+@article{wang20193d,
+  title={3D-printed flexible tactile sensor mimicking the texture and sensitivity of human skin},
+  author={Wang, Haihang and Yang, Hongmei and Zhang, Sheng and Zhang, Li and Li, Jiusheng and Zeng, Xiangqiong},
+  journal={Advanced Materials Technologies},
+  volume={4},
+  number={9},
+  pages={1900147},
+  year={2019},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{dong2017improved,
+  title={Improved gelsight tactile sensor for measuring geometry and slip},
+  author={Dong, Siyuan and Yuan, Wenzhen and Adelson, Edward H},
+  booktitle={2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={137--144},
+  year={2017},
+  organization={IEEE}
+}
+
+@inproceedings{fishel2012sensing,
+  title={Sensing tactile microvibrations with the BioTac—Comparison with human sensitivity},
+  author={Fishel, Jeremy A and Loeb, Gerald E},
+  booktitle={2012 4th IEEE RAS \& EMBS international conference on biomedical robotics and biomechatronics (BioRob)},
+  pages={1122--1127},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{rofer2024pseudotouch,
+  title={PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation},
+  author={R{\"o}fer, Adrian and Heppert, Nick and Ayman, Abdallah and Chisari, Eugenio and Valada, Abhinav},
+  journal={arXiv preprint arXiv:2403.15107},
+  year={2024}
+}
+
+@inproceedings{rupavatharam2023sonicfinger,
+  title={SonicFinger: Pre-touch and contact detection tactile sensor for reactive pregrasping},
+  author={Rupavatharam, Siddharth and Escobedo, Caleb and Lee, Daewon and Prepscius, Colin and Jackel, Larry and Howard, Richard and Isler, Volkan},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={12556--12562},
+  year={2023},
+  organization={IEEE}
+}
+
+@article{zhou2017highly,
+  title={Highly sensitive, self-powered and wearable electronic skin based on pressure-sensitive nanofiber woven fabric sensor},
+  author={Zhou, Yuman and He, Jianxin and Wang, Hongbo and Qi, Kun and Nan, Nan and You, Xiaolu and Shao, Weili and Wang, Lidan and Ding, Bin and Cui, Shizhong},
+  journal={Scientific reports},
+  volume={7},
+  number={1},
+  pages={12949},
+  year={2017},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{wall2023passive,
+  title={Passive and active acoustic sensing for soft pneumatic actuators},
+  author={Wall, Vincent and Z{\"o}ller, Gabriel and Brock, Oliver},
+  journal={The International Journal of Robotics Research},
+  volume={42},
+  number={3},
+  pages={108--122},
+  year={2023},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@inproceedings{pannen2022low,
+  title={A low-cost, easy-to-manufacture, flexible, multi-taxel tactile sensor and its application to in-hand object recognition},
+  author={Pannen, Tessa J and Puhlmann, Steffen and Brock, Oliver},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={10939--10944},
+  year={2022},
+  organization={IEEE}
+}
+
+@inproceedings{wall2022virtual,
+  title={A virtual 2d tactile array for soft actuators using acoustic sensing},
+  author={Wall, Vincent and Brock, Oliver},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={10029--10034},
+  year={2022},
+  organization={IEEE}
+}
+
+@article{xu2024cushsense,
+  title={CushSense: Soft, Stretchable, and Comfortable Tactile-Sensing Skin for Physical Human-Robot Interaction},
+  author={Xu, Boxin and Zhong, Luoyan and Zhang, Grace and Liang, Xiaoyu and Virtue, Diego and Madan, Rishabh and Bhattacharjee, Tapomayukh},
+  journal={arXiv preprint arXiv:2405.03155},
+  year={2024}
+}
+
+@inproceedings{ding2019proximity,
+  title={With proximity servoing towards safe human-robot-interaction},
+  author={Ding, Yitao and Wilhelm, Felix and Faulhammer, Leonhard and Thomas, Ulrike},
+  booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={4907--4912},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{teyssier2021human,
+  title={Human-like artificial skin sensor for physical human-robot interaction},
+  author={Teyssier, Marc and Parilusyan, Brice and Roudaut, Anne and Steimle, J{\"u}rgen},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={3626--3633},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{ohmura2006conformable,
+  title={Conformable and scalable tactile sensor skin for curved surfaces},
+  author={Ohmura, Yoshiyuki and Kuniyoshi, Yasuo and Nagakubo, Akihiko},
+  booktitle={Proceedings 2006 IEEE International Conference on Robotics and Automation, 2006. ICRA 2006.},
+  pages={1348--1353},
+  year={2006},
+  organization={IEEE}
+}
+
+
+@article{zhou2023tacsuit,
+  title={TacSuit: A wearable large-area, bioinspired multimodal tactile skin for collaborative robots},
+  author={Zhou, Yanmin and Zhao, Jiangang and Lu, Ping and Wang, Zhipeng and He, Bin},
+  journal={IEEE Transactions on Industrial Electronics},
+  volume={71},
+  number={2},
+  pages={1708--1717},
+  year={2023},
+  publisher={IEEE}
+}
+
+
+
+
+
+
+
