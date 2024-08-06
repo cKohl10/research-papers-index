@@ -1,0 +1,158 @@
+##################################################
+#
+####### Learning Methods Bibtex References #######
+#
+##################################################
+
+
+@article{rofer2024pseudotouch,
+  title={PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation},
+  author={R{\"o}fer, Adrian and Heppert, Nick and Ayman, Abdallah and Chisari, Eugenio and Valada, Abhinav},
+  journal={arXiv preprint arXiv:2403.15107},
+  year={2024}
+}
+
+@article{swann2024touch,
+  title={Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting},
+  author={Swann, Aiden and Strong, Matthew and Do, Won Kyung and Camps, Gadiel Sznaier and Schwager, Mac and Kennedy III, Monroe},
+  journal={arXiv preprint arXiv:2403.09875},
+  year={2024}
+}
+
+@article{baghaei2023deep,
+  title={Deep representation learning: Fundamentals, technologies, applications, and open challenges},
+  author={Baghaei, Kourosh T and Payandeh, Amirreza and Fayyazsanavi, Pooya and Chen, Zhiqian and Ramezani, Somayeh Bakhtiari and Rahimi, Shahram},
+  journal={IEEE Access},
+  year={2023},
+  publisher={IEEE}
+}
+
+@inproceedings{higuera2023neural,
+  title={Neural contact fields: Tracking extrinsic contact with tactile sensing},
+  author={Higuera, Carolina and Dong, Siyuan and Boots, Byron and Mukadam, Mustafa},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={12576--12582},
+  year={2023},
+  organization={IEEE}
+}
+
+@inproceedings{kim2021transformer,
+  title={Transformer-based deep imitation learning for dual-arm robot manipulation},
+  author={Kim, Heecheol and Ohmura, Yoshiyuki and Kuniyoshi, Yasuo},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={8965--8972},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{ichiwara2023modality,
+  title={Modality Attention for Prediction-Based Robot Motion Generation: Improving Interpretability and Robustness of Using Multi-Modality},
+  author={Ichiwara, Hideyuki and Ito, Hiroshi and Yamamoto, Kenjiro and Mori, Hiroki and Ogata, Tetsuya},
+  journal={IEEE Robotics and Automation Letters},
+  year={2023},
+  publisher={IEEE}
+}
+
+@article{liu2020embodied,
+  title={Embodied tactile perception and learning},
+  author={Liu, Huaping and Guo, Di and Sun, Fuchun and Yang, Wuqiang and Furber, Steve and Sun, Tengchen},
+  journal={Brain Science Advances},
+  volume={6},
+  number={2},
+  pages={132--158},
+  year={2020},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{comi2023implicit,
+  title={Implicit neural representation for 3d shape reconstruction using vision-based tactile sensing},
+  author={Comi, Mauro and Church, Alex and Li, Kejie and Aitchison, Laurence and Lepora, Nathan F},
+  year={2023}
+}
+
+@inproceedings{lambeta2021pytouch,
+  title={PyTouch: A machine learning library for touch processing},
+  author={Lambeta, Mike and Xu, Huazhe and Xu, Jingwei and Chou, Po-Wei and Wang, Shaoxiong and Darrell, Trevor and Calandra, Roberto},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={13208--13214},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{calandra2018more,
+  title={More than a feeling: Learning to grasp and regrasp using vision and touch},
+  author={Calandra, Roberto and Owens, Andrew and Jayaraman, Dinesh and Lin, Justin and Yuan, Wenzhen and Malik, Jitendra and Adelson, Edward H and Levine, Sergey},
+  journal={IEEE Robotics and Automation Letters},
+  volume={3},
+  number={4},
+  pages={3300--3307},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{zhong2023touching,
+  title={Touching a nerf: Leveraging neural radiance fields for tactile sensory data generation},
+  author={Zhong, Shaohong and Albini, Alessandro and Jones, Oiwi Parker and Maiolino, Perla and Posner, Ingmar},
+  booktitle={Conference on Robot Learning},
+  pages={1618--1628},
+  year={2023},
+  organization={PMLR}
+}
+
+@article{cui2020self,
+  title={Self-attention based visual-tactile fusion learning for predicting grasp outcomes},
+  author={Cui, Shaowei and Wang, Rui and Wei, Junhang and Hu, Jingyi and Wang, Shuo},
+  journal={IEEE Robotics and Automation Letters},
+  volume={5},
+  number={4},
+  pages={5827--5834},
+  year={2020},
+  publisher={IEEE}
+}
+
+@inproceedings{anzai2020deep,
+  title={Deep gated multi-modal learning: In-hand object pose changes estimation using tactile and image data},
+  author={Anzai, Tomoki and Takahashi, Kuniyuki},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={9361--9368},
+  year={2020},
+  organization={IEEE}
+}
+
+@inproceedings{marcel2022learning,
+  title={Learning to reach to own body from spontaneous self-touch using a generative model},
+  author={Marcel, Valentin and O’Regan, J Kevin and Hoffmann, Matej},
+  booktitle={2022 IEEE International Conference on Development and Learning (ICDL)},
+  pages={328--335},
+  year={2022},
+  organization={IEEE}
+}
+
+@article{dave2024multimodal,
+  title={Multimodal visual-tactile representation learning through self-supervised contrastive pre-training},
+  author={Dave, Vedant and Lygerakis, Fotios and Rueckert, Elmar},
+  journal={arXiv preprint arXiv:2401.12024},
+  year={2024}
+}
+
+@article{lin2022tactile,
+  title={Tactile gym 2.0: Sim-to-real deep reinforcement learning for comparing low-cost high-resolution robot touch},
+  author={Lin, Yijiong and Lloyd, John and Church, Alex and Lepora, Nathan F},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={4},
+  pages={10754--10761},
+  year={2022},
+  publisher={IEEE}
+}
+
+@article{bologna2013closed,
+  title={A closed-loop neurobotic system for fine touch sensing},
+  author={Bologna, LL and Pinoteau, J and Passot, JB and Garrido, JA and Vogel, J{\"o}rn and Vidal, E Ros and Arleo, A},
+  journal={Journal of neural engineering},
+  volume={10},
+  number={4},
+  pages={046019},
+  year={2013},
+  publisher={IOP Publishing}
+}

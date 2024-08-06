@@ -1,4 +1,8 @@
+##################################################
+#
 ####### Sensing Platform Bibtex References #######
+#
+##################################################
 
 @article{wang2013mutual,
   title={Mutual capacitive flexible tactile sensor for 3-D image control},
@@ -221,10 +225,3 @@
   year={2023},
   publisher={IEEE}
 }
-
-
-
-
-
-
-
