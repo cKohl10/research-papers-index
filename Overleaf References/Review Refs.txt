@@ -1,0 +1,21 @@
+@article{liu2020embodied,
+  title={Embodied tactile perception and learning},
+  author={Liu, Huaping and Guo, Di and Sun, Fuchun and Yang, Wuqiang and Furber, Steve and Sun, Tengchen},
+  journal={Brain Science Advances},
+  volume={6},
+  number={2},
+  pages={132--158},
+  year={2020},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{navarro2021proximity,
+  title={Proximity perception in human-centered robotics: A survey on sensing systems and applications},
+  author={Navarro, Stefan Escaida and M{\"u}hlbacher-Karrer, Stephan and Alagi, Hosam and Zangl, Hubert and Koyama, Keisuke and Hein, Bj{\"o}rn and Duriez, Christian and Smith, Joshua R},
+  journal={IEEE Transactions on Robotics},
+  volume={38},
+  number={3},
+  pages={1599--1620},
+  year={2021},
+  publisher={IEEE}
+}
